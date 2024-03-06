@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="#"><img src="hutao-waving.webp" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="#">Radithya Mahesa</a>!</h1>
