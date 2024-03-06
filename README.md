@@ -12,6 +12,6 @@
   <strong><a href="https://www.instagram.com/rdthymhsa/">Instagram</a></strong> |
   <strong><a href="https://www.facebook.com/radithya.mahesasyabil.1">Facebook</a></strong>
 </p>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="50%" justify="left">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="50%" align="left">
 </Div>
  
