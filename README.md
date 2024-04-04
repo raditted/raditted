@@ -6,9 +6,7 @@
   <img src="hutao-waving.webp" alt="Banner" width="100%">
 
 <div align="center">
-  <pre>
     <h4 align="center">✨I'm currently a student<⁠(⁠￣⁠︶⁠￣⁠)⁠></h4>
-  </pre>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -22,4 +20,4 @@
 </p>
     <!--<img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="50%" align="left">-->
 </Div>
- 
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
