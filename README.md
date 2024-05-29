@@ -65,6 +65,6 @@
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 </p>
