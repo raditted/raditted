@@ -11,7 +11,7 @@
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3>Feel Free To Reach me 📫:</h3>
+<h3>Feel Free To Connect me 📫:</h3>
 <p align="center">
   <a href="https://www.instagram.com/rdthymhsa" target="_blank"><img src="https://img.shields.io/badge/rdthymhsa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://twitter.com/Radithya_Mahesa" target="_blank"><img src="https://img.shields.io/badge/Radithya%5FMahesa-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
