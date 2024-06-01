@@ -69,6 +69,9 @@
   <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 </p>
 
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Music is Everything 🎧
 <p align="center">
-  <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
 </p>
