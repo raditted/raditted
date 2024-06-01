@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Radithya_Mahesa!%2C+a+code+enthusiast+%E2%9C%A9" width="100%" />
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://github.com/radithya-mahesa/radithya-mahesa/assets/111278292/c5337752-2e3d-4b5a-9b2c-a09cd370cf26"></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
   
   <img src="hutao-waving.webp" alt="Banner" width="100%">
   <p></p>
@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=F73D38&random=false&width=435&lines=I'm+currently+a+student+%3A);Of+Course+Im+still+an+Amateur;But+I'll+try+to+do+better++(%E2%81%A0%EF%BD%A1%E2%81%A0%E2%80%A2%CC%80%E2%81%A0%E1%B4%97%E2%81%A0-%E2%81%A0)%E2%81%A0%E2%9C%A7;I+hope+so...">
 </div>
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Feel Free To Connect me 📫:
 <p align="center">
@@ -20,9 +20,8 @@
   <a href="https://www.facebook.com/radithya.mahesasyabil.1" target="_blank"><img src="https://img.shields.io/badge/Radithya%20MS-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o" target="_blank"><img src="https://img.shields.io/badge/WakeUpRadit-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
-    <!--<img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="50%" align="left">-->
 </Div>
- <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### What I use 📌:
 <p align="center">
@@ -64,7 +63,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
 </p>
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Github Stats 📊 :
 <p align="left">
@@ -72,9 +71,12 @@
   <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 </p>
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Music is Everything 🎧 :
 <p align="center">
   <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="50%" align="center">
+
 </p>
