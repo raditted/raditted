@@ -76,5 +76,5 @@
 ### Music is Everything 🎧 :
 <div align="left">
   <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="35%"><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="40%"><br>
 </div>
