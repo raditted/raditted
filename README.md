@@ -74,7 +74,7 @@
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Music is Everything 🎧 :
-<div align="left">
-  <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played" width="40%"><br>
+<div align="center">
+  <a href="https://open.spotify.com/user/6neymqajcyxvsm9dp7pexge6o?si=893cdcdd1fa148d8" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6neymqajcyxvsm9dp7pexge6o&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=c3dc04&bar_color_cover=false"><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6neymqajcyxvsm9dp7pexge6o&count=3" alt="Spotify Recently Played">
 </div>
