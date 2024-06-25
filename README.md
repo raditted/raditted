@@ -58,11 +58,8 @@
 </div>
 
 <p align="center">
-  <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp" alt="Your Custom Image"></a>
+  <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 </p>
-
-
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Github Stats 📊 :
 
