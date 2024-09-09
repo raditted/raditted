@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Radithya_Mahesa!+%E2%9C%A9" width="100%" />
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
-  
-  <img src="hutao-waving.webp" alt="Banner" width="100%">
-  <p></p>
-  
-
 <div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=F73D38&random=false&width=435&lines=I'm+currently+a+student+%3A);Of+Course+Im+still+an+Amateur;But+I'll+try+to+do+better++(%E2%81%A0%EF%BD%A1%E2%81%A0%E2%80%A2%CC%80%E2%81%A0%E1%B4%97%E2%81%A0-%E2%81%A0)%E2%81%A0%E2%9C%A7;I+hope+so...">
+Hello <b>Github</b>, Hello <b>World</b>, and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
+
+I'm very interested in the world of programming. my biggest target is to become a reliable backend developer although I like to build web development too 👾👨‍💻
+
+I always dive into the world of the internet 24/7 so I won't miss any of the latest events and happenings in the industrial era 4.0😎
 </div>
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
@@ -23,7 +22,7 @@
 </Div>
  <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
-### What I use 📌:
+### Tools As My Friend 📌:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
