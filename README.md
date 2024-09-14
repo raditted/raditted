@@ -7,13 +7,19 @@ Hello <b>Github</b>, Hello <b>World</b>, and Hello <b>Everyone</b> my name is <b
 
 I'm very interested in the world of programming. my biggest target is to become a reliable backend developer although I like to build web development too 👾👨‍💻
 
-I always dive into the world of the internet 24/7 so I won't miss any of the latest events and happenings in the industrial era 4.0😎
+I always dive into the world of the internet 24/7 so I won't miss any of the latest events and happenings in the Fourth Industrial Revolution
+😎
+
+Btw, I have certificates too ~<br>
+<p>check it out👇:</p>
+<a href="https://drive.google.com/drive/folders/1EG-K4wXvU8oyQI4oFAmCbEzlapata0rN?usp=sharing"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </div>
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
 ### Feel Free To Connect me 📫:
 <p align="center">
+  <a href="https://www.linkedin.com/in/radithya-mahesa-179819307/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rdthymhsa" target="_blank"><img src="https://img.shields.io/badge/rdthymhsa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://twitter.com/Radithya_Mahesa" target="_blank"><img src="https://img.shields.io/badge/Radithya%5FMahesa-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
   <a href="https://www.facebook.com/radithya.mahesasyabil.1" target="_blank"><img src="https://img.shields.io/badge/Radithya%20MS-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
@@ -34,7 +40,6 @@ I always dive into the world of the internet 24/7 so I won't miss any of the lat
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
