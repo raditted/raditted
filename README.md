@@ -5,10 +5,7 @@
 <div align="left">
 Hello <b>Github</b>, Hello <b>World</b>, and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
 
-I'm very interested in the world of programming. my biggest target is to become a reliable backend developer although I like to build web development too 👾👨‍💻
-
-I always dive into the world of the internet 24/7 so I won't miss any of the latest events and happenings in the Fourth Industrial Revolution
-😎
+I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
 Btw, I have certificates too ~<br>
 <p>check it out👇:</p>
@@ -49,6 +46,7 @@ Btw, I have certificates too ~<br>
   
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
