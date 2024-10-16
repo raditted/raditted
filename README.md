@@ -7,8 +7,8 @@ Hello <b>Github</b>, Hello <b>World</b>, and Hello <b>Everyone</b> my name is <b
 
 I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
-Btw, I have certificates too ~<br>
-<p>check it out👇:</p>
+Btw, I have a few certificates ~<br>
+<p>👇:</p>
 <a href="https://drive.google.com/drive/folders/1EG-K4wXvU8oyQI4oFAmCbEzlapata0rN?usp=sharing"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </div>
 
