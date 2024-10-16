@@ -5,7 +5,7 @@
 <div align="left">
 Hello <b>Github</b>, Hello <b>World</b>, and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
 
-I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
+<!-- I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
 Btw, I have a few certificates ~<br>
 <p>👇:</p>
@@ -96,4 +96,4 @@ Btw, I have a few certificates ~<br>
     </td>
   </tr>
 </table>
-
+-->
