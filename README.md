@@ -65,7 +65,7 @@ Btw, I have a few certificates ~<br>
 <p align="center">
   <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 </p>
-
+--> 
 ### Github Stats 📊 :
 
 <table>
@@ -82,6 +82,7 @@ Btw, I have a few certificates ~<br>
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 
+<!--
 ### Music is Everything 🎧 :
 
 <table>
