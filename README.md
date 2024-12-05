@@ -83,7 +83,7 @@ Btw, I have a few certificates ~<br>
   
 ### Github Stats 📊 :
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 </div>
 
 
