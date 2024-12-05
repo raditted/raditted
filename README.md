@@ -5,6 +5,7 @@
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 <div align="center">
 <h3>Hello <b>World</b> and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
+  
 <a href="#"><img src="sky.webp"></a>
 <!-- I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
@@ -67,6 +68,7 @@ Btw, I have a few certificates ~<br>
   <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 </p>
 --> 
+<hr>
 
 ### Currently Learn :
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -83,6 +85,9 @@ Btw, I have a few certificates ~<br>
   
 ### Github Stats 📊 :
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
+
+  
+### Most Used Language 📊 :
   <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 </div>
 
