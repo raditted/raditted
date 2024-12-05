@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Radithya_Mahesa!+%E2%9C%A9" width="100%" />
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
-<div align="left">
+<div align="center">
 Hello <b>World</b> and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
-
+<a href="#"><img src="skies.webp"></a>
 <!-- I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
 Btw, I have a few certificates ~<br>
