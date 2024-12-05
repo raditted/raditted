@@ -1,10 +1,11 @@
 <div align="center">
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Radithya_Mahesa!+%E2%9C%A9" width="100%" />
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 <div align="center">
 Hello <b>World</b> and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
-<a href="#"><img src="skies.webp"></a>
+<a href="#"><img src="sky.webp"></a>
 <!-- I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
 Btw, I have a few certificates ~<br>
@@ -80,16 +81,8 @@ Btw, I have a few certificates ~<br>
 
 ### Github Stats 📊 :
 
-<table>
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
-    </td>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
-    </td>
-  </tr>
-</table>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
