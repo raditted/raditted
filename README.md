@@ -4,7 +4,7 @@
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
 <div align="center">
-Hello <b>World</b> and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
+<h3>Hello <b>World</b> and Hello <b>Everyone</b> my name is <b>Radithya Mahesa</b>, you can call me <b>Radit</b>. i am a student of SMKS Mahardika Batujajar. 👋🎓<br><br>
 <a href="#"><img src="sky.webp"></a>
 <!-- I'm very interested in the world of programming. my biggest target is to become a backend developer although I like to build web development too 👾👨‍💻
 
@@ -78,11 +78,14 @@ Btw, I have a few certificates ~<br>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
-
+<hr>
+<div align="left">
+  
 ### Github Stats 📊 :
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
+</div>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=radithya-mahesa&show_icons=true&theme=synthwave">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radithya-mahesa&layout=compact">
 
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET"><img src="radit.webp"></a>
