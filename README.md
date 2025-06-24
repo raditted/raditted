@@ -8,7 +8,7 @@
 
 ### About Me:
 - 👨🏻‍💼 My name is `Radithya Mahesa Syabil`
-- 🏠 Live in `Bandung Barat, Indonesia`
+- 🏠 Live in `Greater Bandung, Indonesia`
 - 🧍🏻‍♂️ `18` years old
 - 🎓 Graduate of `Software Engineering` from `SMKS Mahardhika Batujajar`
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
