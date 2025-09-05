@@ -11,6 +11,7 @@
 - 🏠 Live in `Greater Bandung, Indonesia`
 - 🧍🏻‍♂️ `18` years old
 - 🎓 Graduate of `Software Engineering` from `SMKS Mahardhika Batujajar`
+- 👨‍🎓 Student of `Informatics Engineering` at `Politeknik Negeri Bandung`
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
  <a href="https://www.instagram.com/rdthymhsa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
  <a href="https://www.facebook.com/radithya.mahesasyabil.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
