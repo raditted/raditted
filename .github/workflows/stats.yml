@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: stats
           path: generated_stats/stats.svg
-          options: "&username=raditted&theme=vue&show_icons=true&include_all_commits=true&count_private=true"
+          options: "&username=raditted&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true"
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v1
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: top-langs
           path: generated_stats/languages.svg
-          options: "&username=raditted&theme=vue&layout=compact"
+          options: "&username=raditted&theme=nightowl&layout=compact"
 
       - name: Commit & Push
         run: |
