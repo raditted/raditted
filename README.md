@@ -36,10 +36,10 @@
 
 ### Github Stats 📊 :
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raditted&show_icons=true&theme=vue">
+  <img src="https://githubusercontent.com">
 </div>
   
 ### Most Used Language 📊 :
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raditted&layout=compact">
+  <img src="https://githubusercontent.com">
 </div>
