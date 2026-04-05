@@ -14,21 +14,27 @@ jobs:
       - name: Checkout Repositori
         uses: actions/checkout@v3
 
-      - name: Generate Stats & Languages
+      - name: Generate Main Stats
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          user: raditted
-          theme: vue
-          show_icons: true
-          output_dir: generated_stats
-          include_all_commits: true
-          count_private: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          path: generated_stats/stats.svg
+          options: "&username=raditted&theme=vue&show_icons=true&include_all_commits=true&count_private=true"
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: languages
+          path: generated_stats/languages.svg
+          options: "&username=raditted&theme=vue&layout=compact"
 
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@://github.com'
-          git add .
+          mkdir -p generated_stats
+          git add generated_stats/*.svg
           git commit -m "Update GitHub Stats & Languages" || echo "No changes to commit"
           git push
