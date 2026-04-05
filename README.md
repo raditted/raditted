@@ -36,10 +36,10 @@
 
 ### Github Stats 📊 :
 <div align="left">
-  <img src="generated_stats/stats.svg" alt="Github Stats">
+  <img src="generated_stats/stats" alt="Github Stats">
 </div>
   
 ### Most Used Language 📊 :
 <div align="left">
-  <img src="generated_stats/languages.svg" alt="Most Used Language">
+  <img src="generated_stats/languages" alt="Most Used Language">
 </div>
