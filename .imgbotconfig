@@ -1,0 +1,5 @@
+{
+  "ignoredFiles": [
+    "generated_stats/*.svg"
+  ]
+}
