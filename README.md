@@ -4,7 +4,9 @@
 <img src="readmebox.svg" alt="radit box" width="100%">
 <img src="https://github.com/user-attachments/assets/383edd0c-1bb2-47c8-afe0-b0963daf21f3" height="3px" width="100%"></a>
 
-<div align="left">
+<div align="center">
+ <img src="https://count.getloli.com/@radit?name=radit&theme=booru-lewd&padding=5" />
+</div>
 
 ### About Me:
 - 👨🏻‍💼 My name is `Radithya Mahesa Syabil`
@@ -24,7 +26,7 @@
 ### Currently Learn :
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=laravel,vue,nodejs,expressjs,tailwind,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,vue,nodejs,e,mongodb)](https://skillicons.dev)
 
 </div>
 
