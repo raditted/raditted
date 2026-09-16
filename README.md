@@ -1,13 +1,13 @@
-### Hello there👋
-
-<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET">
-<img src="readmebox.svg" alt="radit box" width="100%">
-<img src="https://github.com/user-attachments/assets/383edd0c-1bb2-47c8-afe0-b0963daf21f3" height="3px" width="100%"></a>
+### Hello there...
 
 <div align="center">
  <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET">
  <img src="https://count.getloli.com/@radit?name=radit&theme=booru-lewd&padding=5" />
 </div>
+
+<a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET">
+<img src="readmebox.svg" alt="radit box" width="100%">
+<img src="https://github.com/user-attachments/assets/383edd0c-1bb2-47c8-afe0-b0963daf21f3" height="3px" width="100%"></a>
 
 ### About Me:
 - 👨🏻‍💼 My name is `Radithya Mahesa Syabil`
