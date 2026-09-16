@@ -17,7 +17,7 @@ jobs:
       - name: Generate Main Stats
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           card: stats
           path: generated_stats/stats.svg
           options: "&username=raditted&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true"
@@ -25,7 +25,7 @@ jobs:
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           card: top-langs
           path: generated_stats/languages.svg
           options: "&username=raditted&theme=nightowl&layout=compact"
