@@ -43,6 +43,8 @@
 <div align="left">
  <a href="https://youtu.be/xvFZjo5PgG0?si=TJnsdGZkvts92mET">
   <img src="generated_stats/stats.svg?v1" alt="Github Stats">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raditted&theme=2077&animation=load&name=raditted&title_color=d954c8)
 </div>
   
 ### Most Used Language 📊 :
