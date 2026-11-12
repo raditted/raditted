@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           card: stats
           path: generated_stats/stats.svg
-          options: "&username=raditted&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true"
+          options: "&username=raditted&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true"
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v1
