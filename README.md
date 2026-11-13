@@ -64,7 +64,7 @@ currently_learning:
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raditted&theme=nightowl" alt="Profile Details" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raditted&theme=nightowl&name=raditted" alt="Profile Details" width="100%">
 </td>
 </tr>
 </table>
