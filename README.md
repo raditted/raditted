@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=i+have+no+personality+and+i+must+larp" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I+have+no+personality+and+I+must+larp" alt="Typing SVG" />
 </a>
 
 <br>
